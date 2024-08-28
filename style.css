@@ -1,0 +1,12 @@
+.h1{
+    color: aqua;
+    height: 200px;
+    width: 300px;
+    background-color: black;
+
+}
+.p{
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+}
